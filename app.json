@@ -13,7 +13,7 @@
   "website": "https://github.com/WCGKING/MyTelegramOrgRoBot",
   "env": {
     "WEBHOOK": {
-      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "description": "𝗦𝗲𝘁𝘁𝗶𝗻𝗴 𝗧𝗵𝗶𝘀 𝗧𝗼 𝗔𝗡𝗬𝗧𝗛𝗜𝗡𝗚 𝗪𝗶𝗹𝗹 𝗘𝗻𝗮𝗯𝗹𝗲 𝗪𝗲𝗯𝗵𝗼𝗼𝗸𝘀 𝗪𝗵𝗲𝗻 𝗜𝗻 𝗘𝗻𝘃 𝗠𝗼𝗱𝗲",
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
