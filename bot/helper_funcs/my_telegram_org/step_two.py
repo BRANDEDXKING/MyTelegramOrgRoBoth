@@ -45,3 +45,4 @@ def login_step_get_stel_cookie(
         re_val = response_c.text
         re_status_id = False
     return re_status_id, re_val
+
