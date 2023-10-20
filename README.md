@@ -7,9 +7,9 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+- can be found on [Telegram](https://telegram.dog/BrandedUseTGxBot)
 
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [@BrandedUseTGxBot](https://telegram.dog/BrandedUseTGxBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## Frequently Asked Questions
@@ -29,7 +29,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://GitHub.com/SpEcHiDe/MyTelegramOrgRoBot.git
+git clone https://GitHub.com/WCGKING/MyTelegramOrgRoBot.git
 ```
 
 - change the directory.
@@ -59,19 +59,19 @@ pip install -r requirements.txt
 python -m bot
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [@BRANDRD_BOT](https://telegram.dog/ThankTelegram)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- Please report any issues to the support group: [@BRANDRD_BOT](https://telegram.dog/ThankTelegram)
 
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/WCGKING/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
+[AGPLv3](https://github.com/WCGKING/MyTelegramOrgRoBot/tree/master/LICENSE)
 
 ## credits
 
@@ -81,4 +81,4 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
   - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [me](https://tx.me/BRANDEDKING82)
