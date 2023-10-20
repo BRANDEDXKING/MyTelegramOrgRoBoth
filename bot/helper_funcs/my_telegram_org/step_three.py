@@ -78,3 +78,4 @@ def scarp_tg_existing_app(stel_token: str) -> Tuple[bool, Dict]:
         }
         re_status_id = False
     return re_status_id, re_dict_vals
+
