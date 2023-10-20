@@ -8,3 +8,4 @@ message:
         header: "@{name}, Thanks for opening this PR."
     updated:
         header: "@{name}, Thanks for updating this PR."
+        
