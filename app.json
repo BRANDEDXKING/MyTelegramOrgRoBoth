@@ -1,6 +1,6 @@
 {
-  "name": "MyTelegramOrgRoBot",
-  "description": "get your APP ID and API HASH inside Telegram",
+  "name": "𝗠𝘆𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺𝗢𝗿𝗴𝗥𝗼𝗕𝗼𝘁",
+  "description": "𝗚𝗲𝘁 𝗬𝗼𝘂𝗿 𝗔𝗣𝗣 𝗜𝗗 𝗔𝗻𝗱 𝗔𝗣𝗜 𝗛𝗔𝗦𝗛 𝗜𝗻𝘀𝗶𝗱𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺",
   "keywords": [
     "telegram",
     "best",
@@ -8,67 +8,67 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
-  "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/SpEcHiDe/MyTelegramOrgRoBot",
+  "repository": "https://github.com/WCGKING/MyTelegramOrgRoBot",
+  "success_url": "https://telegram.dog/WCGKING",
+  "website": "https://github.com/WCGKING/MyTelegramOrgRoBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string."
+      "description": "𝗬𝗼𝘂𝗿 𝗕𝗼𝘁 𝘁𝗼𝗸𝗲𝗻, 𝗔𝘀 𝗔 𝗦𝘁𝗿𝗶𝗻𝗴."
     },
     "URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
+      "description": "𝗧𝗵𝗲 𝗛𝗲𝗿𝗼𝗸𝘂 𝗔𝗽𝗽 𝗨𝗥𝗟 𝗦𝗶𝗺𝗶𝗹𝗮𝗿 𝘁𝗼 𝗵𝘁𝘁𝗽𝘀://<𝗮𝗽𝗽𝗻𝗮𝗺𝗲>.𝗵𝗲𝗿𝗼𝗸𝘂𝗮𝗽𝗽.𝗰𝗼𝗺/",
       "value": "https://example.com/"
     },
     "APP_TITLE": {
-      "description": "specify a custom app title",
+      "description": "𝗦𝗽𝗲𝗰𝗶𝗳𝘆 𝗔 𝗖𝘂𝘀𝘁𝗼𝗺 𝗔𝗽𝗽 𝗧𝗶𝘁𝗹𝗲",
       "required": false
     },
     "APP_SHORT_NAME": {
-      "description": "specify a custom alphamumeric shortname (5-32 characters)",
+      "description": "𝗦𝗽𝗲𝗰𝗶𝗳𝘆 𝗔 𝗔𝘂𝘀𝘁𝗼𝗺 𝗔𝗹𝗽𝗵𝗮𝗺𝘂𝗺𝗲𝗿𝗶𝗰 𝗦𝗵𝗼𝗿𝘁𝗻𝗮𝗺𝗲 (𝟱-𝟯𝟮 𝗖𝗵𝗮𝗿𝗮𝗰𝘁𝗲𝗿𝘀)",
       "required": false
     },
     "APP_URL": {
-      "description": "specify a custom app URL",
+      "description": "𝗦𝗽𝗲𝗰𝗶𝗳𝘆 𝗔 𝗖𝘂𝘀𝘁𝗼𝗺 𝗔𝗽𝗽 𝗨𝗥𝗟",
       "required": false
     },
     "APP_DESCRIPTION": {
-      "description": "specify a custom app description",
+      "description": "𝗦𝗽𝗲𝗰𝗶𝗳𝘆 𝗔 𝗖𝘂𝘀𝘁𝗼𝗺 𝗔𝗽𝗽 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻",
       "required": false
     },
     "FTEXT": {
-      "description": "the footer text that will be seen in the bot message, after the final edit",
+      "description": "𝗧𝗵𝗲 𝗙𝗼𝗼𝘁𝗲𝗿 𝗧𝗲𝘅𝘁 𝗧𝗵𝗮𝘁 𝗪𝗶𝗹𝗹 𝗕𝗲 𝗦𝗲𝗲𝗻 𝗻 𝗧𝗵𝗲 𝗕𝗼𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲, 𝗔𝗳𝘁𝗲𝗿 𝗧𝗵𝗲 𝗙𝗶𝗻𝗮𝗹 𝗘𝗱𝗶𝘁",
       "required": false
     },
     "START_TEXT": {
-      "description": "the start text of the Telegram bot",
+      "description": "𝗧𝗵𝗲 𝗦𝘁𝗮𝗿𝘁 𝗧𝗲𝘅𝘁 𝗢𝗳 𝗧𝗵𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗕𝗼𝘁",
       "required": false
     },
     "AFTER_RECVD_CODE_TEXT": {
-      "description": "the message that should be displayed before receiving the code from the user",
+      "description": "𝗧𝗵𝗲 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗧𝗵𝗮𝘁 𝗦𝗵𝗼𝘂𝗹𝗱 𝗕𝗲 𝗗𝗶𝘀𝗽𝗹𝗮𝘆𝗲𝗱 𝗕𝗲𝗳𝗼𝗿𝗲 𝗥𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗧𝗵𝗲 𝗖𝗼𝗱𝗲 𝗙𝗿𝗼𝗺 𝗧𝗵𝗲 𝗨𝘀𝗲𝗿",
       "required": false
     },
     "BEFORE_SUCC_LOGIN": {
-      "description": "a temporary message that will be displayed after receiving the code, and before the validations",
+      "description": "𝗔 𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗿𝘆 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗧𝗵𝗮𝘁 𝗪𝗶𝗹𝗹 𝗕𝗲 𝗗𝗶𝘀𝗽𝗹𝗮𝘆𝗲𝗱 𝗔𝗳𝘁𝗲𝗿 𝗥𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗧𝗵𝗲 𝗖𝗼𝗱𝗲, 𝗔𝗻𝗱 𝗕𝗲𝗳𝗼𝗿𝗲 𝗧𝗵𝗲 𝗩𝗮𝗹𝗶𝗱𝗮𝘁𝗶𝗼𝗻𝘀",
       "required": false
     },
     "ERRED_PAGE": {
-      "description": "a string which will **never** occur, but still exists?",
+      "description": "𝗔 𝗦𝘁𝗿𝗶𝗻𝗴 𝗪𝗵𝗶𝗰𝗵 𝗪𝗶𝗹𝗹 **𝗡𝗲𝘃𝗲𝗿** 𝗢𝗰𝗰𝘂𝗿, 𝗕𝘂𝘁 𝗦𝘁𝗶𝗹𝗹 𝗘𝘅𝗶𝘀𝘁𝘀?",
       "required": false
     },
     "CANCELLED_MESG": {
-      "description": "a message that should be shown on /cancel",
+      "description": "𝗔 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗧𝗵𝗮𝘁 𝗦𝗵𝗼𝘂𝗹𝗱 𝗕𝗲 𝗦𝗵𝗼𝘄𝗻 𝗢𝗻 /𝗖𝗮𝗻𝗰𝗲𝗹",
       "required": false
     },
     "IN_VALID_CODE_PVDED": {
-      "description": "a string which will **never** occur, but still exists?",
+      "description": "𝗔 𝗦𝘁𝗿𝗶𝗻𝗴 𝗪𝗵𝗶𝗰𝗵 𝗪𝗶𝗹𝗹 **𝗡𝗲𝘃𝗲𝗿** 𝗢𝗰𝗰𝘂𝗿, 𝗕𝘂𝘁 𝗦𝘁𝗶𝗹𝗹 𝗘𝘅𝗶𝘀𝘁𝘀?",
       "required": false
     },
     "IN_VALID_PHNO_PVDED": {
-      "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
+      "description": "𝗔 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗧𝗵𝗮𝘁 𝗪𝗶𝗹𝗹 𝗕𝗲 𝗦𝗵𝗼𝘄𝗻 𝗜𝗳 `𝗚𝗲𝘁_𝗣𝗵𝗻𝗼_𝗜𝗺𝗻_𝗚𝗲𝘀` 𝗟𝗼𝗴𝗶𝗰, 𝗕𝗿𝗲𝗮𝗸𝘀",
       "required": false
     }
   },
